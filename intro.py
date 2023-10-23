@@ -1,0 +1,5 @@
+print("Welcome to Python Programming with Mr. Conel.")
+print("You are going to learn basics in python")
+print(7+26)
+print("4+5")
+print('6+6')
